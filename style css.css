@@ -1,0 +1,61 @@
+.toto{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-style: italic;
+}
+li{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;
+    font-weight: 200;
+    font-style: italic;
+}
+p{
+    background-color: rgb(103, 180, 239) ;
+    font-family: Arial, Helvetica, sans-serif;;
+    font-weight: 200;
+    font-style: inherit;
+}
+body{
+    background-color: rgb(236, 216, 186);
+}
+h1{
+    text-align: center;
+    text-decoration: solid;
+    text-shadow: 0cqw;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue ;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: oblique;
+    text-shadow: 0cqmin;
+    text-decoration-color: aqua;
+    text-decoration-line: underline;
+    color:blue
+}
+.part1{
+    text-align:justify;
+    text-shadow: 15cqmax;
+    text-overflow: ellipsis;
+}
+.part2{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30px;
+    display: flex;
+    
+}
+
+header
+{
+    margin: auto;
+    width: 100%;
+    padding:auto;
+    box-shadow: 100cap;
+    background-color: rgb(224, 231, 231);
+}
+footer{
+    animation-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
+
+}
